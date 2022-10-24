@@ -8,7 +8,8 @@ for i in range(l-1):
 
 print(array)
 
-"""def bubblesort(items):
+"""
+def bubblesort(items):
 	swapped = False
 	# Looping from size of array from last index[-1] to index [0]
 	for n in range(len(items)-1, 0, -1):
@@ -29,4 +30,5 @@ print(items)
 bubblesort(items)
 print("Sorted Array is, ")
 print(items)
+
 """
